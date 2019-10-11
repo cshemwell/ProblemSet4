@@ -1,3 +1,6 @@
+//compile and run code with this//
+
+/*       gcc ProblemSet4.3.c -o ProbSet4.3 && ./ProbSet4.3        */
 
 #include <stdio.h>
 

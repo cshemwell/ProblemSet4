@@ -1,3 +1,7 @@
+//compile and run code with this//
+
+/*       gcc ProblemSet4.2.c -o ProbSet4.2 && ./ProbSet4.2        */
+
 #include <stdio.h>
 
 void removeLastCharacter(char*);
