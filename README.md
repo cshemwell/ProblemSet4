@@ -1,4 +1,10 @@
 # ProblemSet4
+Chris Shemwell
+Audio Programming in C
+due Oct 10 at 11:59:59pm
+included is 
+ProblemSet4.1-3.c
+and included .txt files to satisfy ProblemSet conditions
 
 I believe I got all the compiled code to do the job, but I don't exactly feel like I understand everything that's happening.
 Starting with function declaration. I tried declaring the prototype in 4.1, but in the end, it would only work withOUT the prototype, so I can assume my syntax is wrong somewhere.
