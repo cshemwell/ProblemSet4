@@ -1,1 +1,8 @@
 # ProblemSet4
+
+I believe I got all the compiled code to do the job, but I don't exactly feel like I understand everything that's happening.
+Starting with function declaration. I tried declaring the prototype in 4.1, but in the end, it would only work withOUT the prototype, so I can assume my syntax is wrong somewhere.
+
+I got help on 4.2 because it wasn't clicking with me that the fgets function deals with files and not string values. So for a while, I was using scanf to input a string, that would then be printed without the last char. ANYWAYS, I eventually got the help and completed the problem, but I'm very confused with everything involving files.
+
+4.3 seemed self explanatary. I just had many syntax errors that eventually worked themselves out.
